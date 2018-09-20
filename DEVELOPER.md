@@ -97,7 +97,7 @@ When the repository gets created by a core developer, you can continue.
 
 Now we're at a point that the core developers must decide if its time to include this module in the companion core. But ask us on slack, and if we decide to add it - and we say it's done, you my proceed.
 
-It's important that you didn't get any erros in the last push, because you're going to delete the code from your computer (make a backup if you're unsure).
+It's important that you didn't get any errors in the last push, because you're going to delete the code from your computer (make a backup if you're unsure).
 
 13) ```cd ..```
 14) ```rm -rf mynewmodule```
